@@ -12,6 +12,10 @@
 * You can add our repo by visiting the [Keiyoushi Website](https://keiyoushi.github.io/add-repo)
 * Otherwise, copy & paste the following URL: https://github.com/keiyoushi/extensions/raw/repo/index.pb
 
+## Standalone APKs
+
+Comix extension APK builds for this fork are available on the [GitHub Releases page](https://github.com/DemonGodXY/ext-fork-kt/releases).
+
 ## Requests
 
 To request a new source or bug fix, [create an issue](https://github.com/keiyoushi/extensions-source/issues/new/choose).
